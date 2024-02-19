@@ -1,0 +1,22 @@
+body{
+}
+
+
+h1{
+    color: red;
+}
+
+
+.green{
+    h1{
+        color: green;
+    }    
+}
+
+
+.red{
+    color: red;
+}
+.big{
+    font-size: xx-large;
+}
